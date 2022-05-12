@@ -1,7 +1,7 @@
 {
     "name": "stephane888/wb_horizon_generate",
     "description": "generate basic profile to wb-universe",
-    "type": "profile",
+    "type": "drupal-profile",
     "license": "MIT",
     "authors": [
         {
@@ -10,5 +10,39 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+    	"stephane888/ajax_status": "dev-1x",
+        "stephane888/appformmanager": "dev-2x",
+        "stephane888/creation_site_virtuel": "dev-1x",
+        "stephane888/db-query": "dev-3x",
+        "stephane888/debug": "dev-1x",
+        "stephane888/domain_menu_access": "dev-8.x-1.x",
+        "stephane888/filesmanager": "^1.0.1",
+        "stephane888/form_node_vuejs": "^1.0.1",
+        "stephane888/formatage_models": "dev-3x",
+        "stephane888/generate_mapping_content": "dev-1x",
+        "stephane888/generate_style_theme": "dev-1x",
+        "stephane888/grapesjs_editor": "^1.0.1",
+        "stephane888/htmlbootstrap": "dev-1x",
+        "stephane888/import_entity_progress": "dev-1x",
+        "stephane888/layoutgenentitystyles": "dev-1x",
+        "stephane888/lesroidelareno": "dev-1x",
+        "stephane888/load_view_block_filter": "dev-1x",
+        "stephane888/login_rx_vuejs": "dev-1x",
+        "stephane888/md_slider": "^1.0.0",
+        "stephane888/menu_item_add_icon": "dev-1x",
+        "stephane888/override_webform": "^1.0.0",
+        "stephane888/ovh_api_rest": "dev-1x",
+        "stephane888/owlcarousel": "dev-1x",
+        "stephane888/query_ajax": "dev-1x",
+        "stephane888/templatenamebydomain": "^1.0.0",
+        "stephane888/view_filter_display": "^1.0.0",
+        "stephane888/view_formatter_layouts": "dev-1x",
+        "stephane888/views_filter_lists_terms": "dev-1x",
+        "stephane888/vuejs_entity": "dev-1x",
+        "stephane888/wb_horizon_generate": "dev-1x",
+        "stephane888/wb_universe": "dev-3x",
+        "stephane888/wbu-atomique": "^1.0",
+        "stephane888/wbumenudomain": "dev-1x"
+    }
 }

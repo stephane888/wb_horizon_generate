@@ -42,12 +42,9 @@ install:
   - lesroidelareno
   - layoutgenentitystyles
   - import_entity_progress
-  - htmlbootstrap
   - generate_style_theme
   - formatage_models
   - filesmanager
-  - db-query
-  - debug
 
 
 #############
