@@ -21,13 +21,51 @@ distribution:
   #   theme: my_theme
   #   # To redirect to specific URL after profile installation set your finish_url: 
   #   finish_url: ?welcome=1
-  langcode: fr
+  # langcode: fr
 
 #############
 # Modules to install to support the profile.
 install:
 #  - block_content
 #  - breakpoint
+  - node
+  - history
+  - block
+  - breakpoint
+  - ckeditor
+  - color
+  - config
+  - comment
+  - contextual
+  - contact
+  - menu_link_content
+  - datetime
+  - block_content
+  - editor
+  - help
+  - image
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - big_pipe
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - rdf
+  - views
+  - views_ui
+  - tour
+  - automated_cron
+### contrib module.
+  - restui
+  - pathauto
+  - admin_toolbar
 ### custom module.
   - wbumenudomain
   - views_filter_lists_terms
@@ -45,6 +83,10 @@ install:
   - generate_style_theme
   - formatage_models
   - filesmanager
+  - ovh_api_rest
+  - creation_site_virtuel
+  
+
 
 
 #############
@@ -58,6 +100,8 @@ dependencies:
 # List any themes that should be installed as part of the profile installation.
 # Note that this will not set any theme as the default theme.
 themes:
+  - bartik
+  - seven
   - wb_universe
   - bootstrap_barrio
   - theme_reference_wbu
