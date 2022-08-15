@@ -73,18 +73,14 @@ install:
   - restui
   - pathauto
   - admin_toolbar
-  - layout_builder_restrictions
   - imce
-  - field_group
   - inline_entity_form
   - select2
-  - shs
-  - cshs
   - geolocation
   - geolocation_google_maps
   - domain_source
+  - domain_access
   - field_formatter_class
-  - field_formatter_range
   - webform
   - commerce_product
   - commerce_promotion
