@@ -84,7 +84,6 @@ install:
   - webform
   - commerce_product
   - commerce_promotion
-  - commerce_simple_stock
   - commerce_store
   - commerce_stripe
   - responsive_image
