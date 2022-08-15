@@ -90,6 +90,8 @@ install:
   - commerce_stock_field
   - admin_toolbar
   - admin_toolbar_tools
+### custom
+  - creation_site_virtuel
 
   
 

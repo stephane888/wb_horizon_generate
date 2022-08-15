@@ -28,6 +28,7 @@
         "drupal/webform": "^6.1",
         "drupal/commerce": "^2.31",
         "drupal/commerce_stripe": "^1.0@RC",
-        "drupal/commerce_stock": "^1.0"
+        "drupal/commerce_stock": "^1.0",
+        "stephane888/creation_site_virtuel": "^1.0"
     }
 }
