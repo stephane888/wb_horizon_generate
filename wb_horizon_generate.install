@@ -18,4 +18,15 @@ function wb_horizon_generate_install() {
   include_once DRUPAL_ROOT . '/core/profiles/standard/standard.install';
   standard_install();
   // Can add code in here to make nodes, terms, etc.
+  // definition des varibles
+  /**
+   *
+   * @var \Drupal\Core\Config\ConfigFactoryInterface $configFactory
+   */
+  $configFactory = \Drupal::service('config.factory');
+  $editConfig = $configFactory->getEditable('system.theme');
+  $editConfig->set('default', 'theme_reference_wbu');
+  $editConfig->set('admin', 'claro');
+  $editConfig->save();
 }
+
