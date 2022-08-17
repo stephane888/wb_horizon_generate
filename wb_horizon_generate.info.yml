@@ -30,6 +30,7 @@ dependencies:
   - pathauto
   - formatage_models
   - generate_style_theme
+  - migrationwbh
 
 #############
 # Modules to install to support the profile.
@@ -92,6 +93,7 @@ install:
   - admin_toolbar_tools
 ### custom
   - creation_site_virtuel
+  - migrationwbh
 
   
 

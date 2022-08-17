@@ -13,7 +13,14 @@
     {
       "type": "composer",
       "url": "https://packages.drupal.org/8"
-    }
+    },
+     {
+		"type" : "path",
+		"url" : "/siteweb/DrupalModules/migrationwbh",
+		"options": {
+		    "symlink": true
+		}
+	}
   ],
     "minimum-stability": "dev",
     "prefer-stable": true,
