@@ -91,9 +91,16 @@ install:
   - commerce_stock_field
   - admin_toolbar
   - admin_toolbar_tools
+  - menu_item_extras
+  - lang_dropdown
 ### custom
   - creation_site_virtuel
   - migrationwbh
+  - commerceformatage
+  - terms_display
+  - spaker_mod
+  - get_data_field_from_url
+  - wb_horizon_public
 
   
 
