@@ -101,6 +101,7 @@ install:
   - spaker_mod
   - get_data_field_from_url
   - wb_horizon_public
+  - fielditem_renderby_view
 
   
 

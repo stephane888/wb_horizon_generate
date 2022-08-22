@@ -43,6 +43,7 @@
         "stephane888/terms_display": "dev-2x",
         "stephane888/get_data_field_from_url": "dev-1x",
         "noumecha/spaker_mod": "dev-1x",
-        "stephane888/wb_horizon_public": "dev-1x"
+        "stephane888/wb_horizon_public": "dev-1x",
+        "stephane888/fielditem_renderby_view": "dev-1x"
     }
 }
