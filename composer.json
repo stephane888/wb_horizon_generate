@@ -13,14 +13,7 @@
     {
       "type": "composer",
       "url": "https://packages.drupal.org/8"
-    },
-     {
-		"type" : "path",
-		"url" : "/siteweb/DrupalModules/migrationwbh",
-		"options": {
-		    "symlink": true
-		}
-	}
+    }
   ],
     "minimum-stability": "dev",
     "prefer-stable": true,
@@ -30,7 +23,6 @@
         "drupal/restui": "1.x-dev",
         "drupal/imce": "2.x-dev",
         "drupal/domain": "^1.0@beta",
-        "drupal/inline_entity_form": "1.x-dev",
         "drupal/select2": "1.x-dev",
         "drupal/webform": "^6.1",
         "drupal/commerce": "^2.31",
@@ -44,6 +36,7 @@
         "stephane888/get_data_field_from_url": "dev-1x",
         "noumecha/spaker_mod": "dev-1x",
         "stephane888/wb_horizon_public": "dev-1x",
-        "stephane888/fielditem_renderby_view": "dev-1x"
+        "stephane888/fielditem_renderby_view": "dev-1x",
+        "stephane888/migrationwbh": "^1.2"
     }
 }
