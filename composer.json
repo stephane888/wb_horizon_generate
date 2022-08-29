@@ -19,7 +19,7 @@
     "prefer-stable": true,
     "require": {
     	"drupal/paragraph_view_mode": "^2.0",
-    	"stephane888/habeuk_profile": "^1.0",
+    	"stephane888/habeuk_profile": "^1.0|dev-1x",
         "drupal/restui": "1.x-dev",
         "drupal/imce": "2.x-dev",
         "drupal/domain": "^1.0@beta",
@@ -37,6 +37,7 @@
         "noumecha/spaker_mod": "dev-1x",
         "stephane888/wb_horizon_public": "dev-1x",
         "stephane888/fielditem_renderby_view": "dev-1x",
-        "stephane888/migrationwbh": "^1.2"
+        "stephane888/migrationwbh": "^1.2",
+        "noumecha/hot_models": "dev-1x"
     }
 }

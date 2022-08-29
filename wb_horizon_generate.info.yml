@@ -102,6 +102,8 @@ install:
   - get_data_field_from_url
   - wb_horizon_public
   - fielditem_renderby_view
+  - fullswiperoptions
+  - hot_models
 
   
 
