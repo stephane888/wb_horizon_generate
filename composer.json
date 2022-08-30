@@ -31,7 +31,6 @@
         "drupal/menu_item_extras": "^2.17",
         "drupal/lang_dropdown": "^2.0",
         "stephane888/commerceformatage": "dev-1x",
-        "stephane888/terms_display": "dev-2x",
         "stephane888/get_data_field_from_url": "dev-1x",
         "noumecha/spaker_mod": "1.0.1",
         "stephane888/wb_horizon_public": "1.0.0",
@@ -53,6 +52,7 @@
         "stephane888/owlcarousel": "1.1.0",
         "stephane888/theme_reference_wbu": "1.2.0",
         "stephane888/wb_universe": "3.1.0",
-        "cweagans/composer-patches": "^1.7"
+        "cweagans/composer-patches": "^1.7",
+        "stephane888/terms_display": "2.0.0"
     }
 }
