@@ -11,6 +11,7 @@ distribution:
 # Ces modules ne peuvent etre desinstaller par l'utilisateur
 dependencies:
   - paragraphs
+  - paragraph_view_mode
   - pathauto
   - formatage_models
   - generate_style_theme
