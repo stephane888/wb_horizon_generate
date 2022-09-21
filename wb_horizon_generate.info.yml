@@ -55,6 +55,7 @@ install:
   - tour
   - automated_cron
   - content_translation
+  - config_translation
 ### contrib module.
   - restui
   - pathauto
@@ -78,6 +79,7 @@ install:
   - admin_toolbar_tools
   - menu_item_extras
   - lang_dropdown
+  - languageicons
   - statistics
   - quickedit
 ### custom
