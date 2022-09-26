@@ -47,13 +47,17 @@
         "stephane888/clothingslayouts": "1.0.0",
         "stephane888/formatage_models": "3.3.0",
         "stephane888/fullswiperoptions": "1.0.1",
-        "stephane888/generate_style_theme": "^2.2|dev-2x",
+        "stephane888/generate_style_theme": "^2.2",
         "stephane888/htmlbootstrap": "1.3.0",
         "stephane888/login_rx_vuejs": "1.1.0",
         "stephane888/owlcarousel": "1.1.0",
         "stephane888/theme_reference_wbu": "1.2.0",
         "stephane888/wb_universe": "3.1.0",
         "cweagans/composer-patches": "^1.7",
-        "stephane888/terms_display": "2.0.0"
+        "stephane888/terms_display": "2.0.0",
+        "drupal/commerce_autosku": "dev-2.x",
+        "stephane888/layoutscommerce": "^1.0",
+        "drupal/search_api": "^1.25",
+        "drupal/better_exposed_filters": "^6.0"
     }
 }

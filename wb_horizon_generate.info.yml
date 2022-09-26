@@ -75,6 +75,7 @@ install:
   - commerce_stripe
   - responsive_image
   - commerce_stock_field
+  - commerce_autosku
   - admin_toolbar
   - admin_toolbar_tools
   - menu_item_extras
@@ -82,6 +83,9 @@ install:
   - languageicons
   - statistics
   - quickedit
+  - search_api
+  - search_api_db
+  - better_exposed_filters
 ### custom
   - statistics
   - quickedit
@@ -97,6 +101,8 @@ install:
   - fullswiperoptions
   - hot_models
   - login_rx_vuejs
+  - layoutscommerce
+  - owlcarousel
 
   
 
