@@ -86,6 +86,7 @@ install:
   - search_api
   - search_api_db
   - better_exposed_filters
+  - commerce_shipping
 ### custom
   - statistics
   - quickedit
