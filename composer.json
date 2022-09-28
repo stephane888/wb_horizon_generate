@@ -59,6 +59,7 @@
         "stephane888/layoutscommerce": "^1.0",
         "drupal/search_api": "^1.25",
         "drupal/better_exposed_filters": "^6.0",
-        "drupal/commerce_shipping": "^2.4"
+        "drupal/commerce_shipping": "^2.4",
+        "stephane888/votings_renders": "^1.0"
     }
 }

@@ -88,6 +88,7 @@ install:
   - better_exposed_filters
   - commerce_shipping
   - commerce_checkout
+  - votingapi
 ### custom
   - statistics
   - quickedit
@@ -105,6 +106,7 @@ install:
   - login_rx_vuejs
   - layoutscommerce
   - owlcarousel
+  - votings_renders
 
   
 
