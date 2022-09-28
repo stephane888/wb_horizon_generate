@@ -107,6 +107,7 @@ install:
   - layoutscommerce
   - owlcarousel
   - votings_renders
+  - formatter_render_field
 
   
 
