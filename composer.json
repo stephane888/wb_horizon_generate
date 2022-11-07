@@ -23,7 +23,6 @@
         "drupal/imce": "2.x-dev",
         "drupal/domain": "^1.0@beta",
         "drupal/select2": "1.x-dev",
-        "drupal/webform": "^6.1",
         "drupal/commerce": "^2.31",
         "drupal/commerce_stripe": "^1.0@RC",
         "drupal/commerce_stock": "^1.0",
@@ -61,6 +60,9 @@
         "drupal/better_exposed_filters": "^6.0",
         "drupal/commerce_shipping": "^2.4",
         "stephane888/votings_renders": "^1.0",
-        "stephane888/formatter_render_field": "^1.0"
+        "stephane888/formatter_render_field": "^1.0",
+        "noumecha/mit_models": "dev-1x",
+        "justinonomo/mitor": "^1.0",
+        "drupal/webform": "^6.1"
     }
 }

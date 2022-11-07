@@ -108,6 +108,10 @@ install:
   - owlcarousel
   - votings_renders
   - formatter_render_field
+  - mitor
+  - mit_models
+  - webform_ui
+  
 
   
 
