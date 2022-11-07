@@ -63,6 +63,7 @@
         "stephane888/formatter_render_field": "^1.0",
         "noumecha/mit_models": "dev-1x",
         "justinonomo/mitor": "^1.0",
-        "drupal/webform": "^6.1"
+        "drupal/webform": "^6.1",
+        "stephane888/webform_domain_access": "dev-1x"
     }
 }

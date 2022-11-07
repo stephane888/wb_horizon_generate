@@ -111,6 +111,7 @@ install:
   - mitor
   - mit_models
   - webform_ui
+  - webform_domain_access
   
 
   
