@@ -6,7 +6,7 @@ core_version_requirement: '^9'
 #############
 distribution:
   name: 'WB-horizon generate'
-  langcode: fr
+  langcode: en
   
 # Ces modules ne peuvent etre desinstaller par l'utilisateur
 dependencies:
@@ -66,9 +66,6 @@ install:
   - entity_block
   - geolocation
   - geolocation_google_maps
-  - domain
-  - domain_source
-  - domain_access
   - field_formatter_class
   - webform
   - commerce_product
@@ -116,6 +113,7 @@ install:
   - webform_ui
   - webform_domain_access
   - blockscontent
+  - vixcon
   
 
   
