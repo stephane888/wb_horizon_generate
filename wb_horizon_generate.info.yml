@@ -66,6 +66,7 @@ install:
   - entity_block
   - geolocation
   - geolocation_google_maps
+  - domain
   - domain_source
   - domain_access
   - field_formatter_class
