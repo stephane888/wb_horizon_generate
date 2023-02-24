@@ -21,7 +21,7 @@
     	"drupal/paragraph_view_mode": "^3.0",
         "drupal/restui": "1.x-dev",
         "drupal/imce": "2.x-dev",
-        "drupal/domain": "^1.0@beta",
+        "drupal/domain": "1.x-dev@dev",
         "drupal/select2": "1.x-dev",
         "drupal/commerce": "^2.31",
         "drupal/commerce_stripe": "^1.0@RC",
