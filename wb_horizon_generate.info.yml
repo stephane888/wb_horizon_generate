@@ -63,6 +63,7 @@ install:
   - imce
   - inline_entity_form
   - select2
+  - entity_block
   - geolocation
   - geolocation_google_maps
   - domain_source
@@ -89,6 +90,7 @@ install:
   - commerce_shipping
   - commerce_checkout
   - votingapi
+  - video
 ### custom
   - statistics
   - quickedit
@@ -112,6 +114,7 @@ install:
   - mit_models
   - webform_ui
   - webform_domain_access
+  - blockscontent
   
 
   

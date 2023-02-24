@@ -38,11 +38,14 @@
         "stephane888/migrationwbh": "^1.2|dev-1x",
         "noumecha/hot_models": "1.0.0",
         "drupal/admin_toolbar": "^3.1",
+        "drupal/entity_block": "^1.1",
         "drupal/geolocation": "^3.10",
         "drupal/field_formatter_class": "^1.5",
         "drupal/paragraphs": "^1.15",
+        "drupal/video": "^3.0",
         "drupal/smtp": "^1.1",
         "drupal/twig_vardumper": "^3.0",
+        "stephane888/blockscontent": "^1.0.0",
         "stephane888/clothingslayouts": "^1.0.0",
         "stephane888/formatage_models": "^3.3.0",
         "stephane888/fullswiperoptions": "^1.0.1",
@@ -63,6 +66,7 @@
         "stephane888/formatter_render_field": "^1.0",
         "noumecha/mit_models": "dev-1x",
         "justinonomo/mitor": "^1.0",
+        "justinonomo/vixcon": "^1.0.0",
         "drupal/webform": "^6.1",
         "stephane888/webform_domain_access": "dev-1x"
     }
