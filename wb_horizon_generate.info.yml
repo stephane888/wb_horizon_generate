@@ -114,6 +114,7 @@ install:
   - webform_domain_access
   - blockscontent
   - vixcon
+  - view_formatter_layouts
   
 
   

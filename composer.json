@@ -64,6 +64,7 @@
         "drupal/commerce_shipping": "^2.4",
         "stephane888/votings_renders": "^1.0",
         "stephane888/formatter_render_field": "^1.0",
+        "stephane888/view_formatter_layouts": "^1.0 | dev-1x",
         "noumecha/mit_models": "dev-1x",
         "justinonomo/mitor": "^1.0",
         "justinonomo/vixcon": "^1.0.0",
