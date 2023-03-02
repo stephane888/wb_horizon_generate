@@ -33,7 +33,7 @@
         "stephane888/commerceformatage": "dev-1x",
         "stephane888/get_data_field_from_url": "dev-1x",
         "noumecha/spaker_mod": "1.0.1",
-        "stephane888/wb_horizon_public": "1.0.0",
+        "stephane888/wb_horizon_public": "^1.0.0",
         "stephane888/fielditem_renderby_view": "dev-1x",
         "stephane888/migrationwbh": "^1.2|dev-1x",
         "noumecha/hot_models": "1.0.0",
