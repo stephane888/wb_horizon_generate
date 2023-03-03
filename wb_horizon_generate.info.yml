@@ -115,6 +115,7 @@ install:
   - blockscontent
   - vixcon
   - view_formatter_layouts
+  - modeldessange
   
 
   
