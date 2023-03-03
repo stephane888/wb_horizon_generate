@@ -69,6 +69,7 @@
         "justinonomo/mitor": "^1.0",
         "justinonomo/vixcon": "^1.0.0",
         "drupal/webform": "^6.1",
-        "stephane888/webform_domain_access": "dev-1x"
+        "stephane888/webform_domain_access": "dev-1x",
+        "stephane888/modeldessange": "^1.0"
     }
 }
