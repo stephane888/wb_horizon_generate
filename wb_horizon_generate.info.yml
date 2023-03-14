@@ -116,6 +116,7 @@ install:
   - vixcon
   - view_formatter_layouts
   - modeldessange
+  - apivuejs
   
 
   
