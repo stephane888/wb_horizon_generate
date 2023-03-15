@@ -71,6 +71,7 @@
         "drupal/webform": "^6.1",
         "stephane888/webform_domain_access": "dev-1x",
         "stephane888/modeldessange": "^1.0",
-        "stephane888/apivuejs": "dev-1x"
+        "stephane888/apivuejs": "dev-1x",
+        "stephane888/filesmanager": "^1.0"
     }
 }

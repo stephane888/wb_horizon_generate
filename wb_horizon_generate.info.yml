@@ -118,6 +118,7 @@ install:
   - view_formatter_layouts
   - modeldessange
   - apivuejs
+  - filesmanager
   
 
   
