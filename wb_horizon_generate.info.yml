@@ -21,6 +21,7 @@ dependencies:
 # Modules to install to support the profile.
 install:
   - node
+  - ctools
   - history
   - block
   - breakpoint
