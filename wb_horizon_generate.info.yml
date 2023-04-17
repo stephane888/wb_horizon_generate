@@ -120,6 +120,7 @@ install:
   - modeldessange
   - apivuejs
   - filesmanager
+  - more_fields
   
 
   
