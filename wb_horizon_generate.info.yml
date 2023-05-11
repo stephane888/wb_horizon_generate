@@ -121,6 +121,7 @@ install:
   - apivuejs
   - filesmanager
   - more_fields
+  - lesroidelareno
   
 
   
