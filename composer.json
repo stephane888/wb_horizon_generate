@@ -1,6 +1,6 @@
 {
     "name": "stephane888/wb_horizon_generate",
-    "description": "generate basic profile to wb-universe",
+    "description": "generate basic profile to wb-horizon",
     "type": "drupal-profile",
     "license": "MIT",
     "authors": [
