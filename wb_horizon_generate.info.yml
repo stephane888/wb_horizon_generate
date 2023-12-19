@@ -91,6 +91,7 @@ install:
   - commerce_checkout
   - votingapi
   - video
+  - phone_international
 ### custom
   - statistics
   - quickedit

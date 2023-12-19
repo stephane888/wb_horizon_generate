@@ -71,6 +71,7 @@
     	"stephane888/view_formatter_layouts": "dev-1x",
     	"stephane888/modeldessange": "dev-1x",
     	"stephane888/creation_site_virtuel": "dev-1x",
-    	"stephane888/lesroidelareno": "dev-wbh"
+    	"stephane888/lesroidelareno": "dev-wbh",
+        "drupal/phone_international": "^3.3"
     }
 }
