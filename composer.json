@@ -58,10 +58,10 @@
     	"habeuk/mit_models": "dev-1x",
     	"habeuk/vixcon": "dev-1x",
     	"habeuk/more_fields": "dev-1x",
-    	"habeuk/generate_style_theme": "dev-2x",
+    	"habeuk/generate_style_theme": "3.1.1",
     	"stephane888/terms_display": "dev-1x",
     	"stephane888/get_data_field_from_url": "dev-1x",
-    	"stephane888/wb_horizon_public": "dev-1x",
+    	"stephane888/wb_horizon_public": "1.0.6",
     	"stephane888/fielditem_renderby_view": "dev-1x",
     	"stephane888/fullswiperoptions": "dev-1x",
     	"stephane888/owlcarousel": "dev-1x",
@@ -72,6 +72,7 @@
     	"stephane888/modeldessange": "dev-1x",
     	"stephane888/creation_site_virtuel": "1.4.1",
     	"stephane888/lesroidelareno": "dev-wbh",
-        "drupal/phone_international": "^3.3"
+        "drupal/phone_international": "^3.3",
+        "habeuk/layoutgenentitystyles": "1.1.7"
     }
 }
