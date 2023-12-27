@@ -116,6 +116,7 @@ install:
   - blockscontent
   - vixcon
   - view_formatter_layouts
+  - view_filter_promotion
   - modeldessange
   - apivuejs
   - filesmanager

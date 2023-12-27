@@ -48,7 +48,7 @@
     	"habeuk/drupal_utility": "dev-1x",
     	"habeuk/fast_models": "dev-1x",
     	"habeuk/formatage_models": "3.5.12",
-    	"habeuk/layoutscommerce": "dev-1x",
+    	"habeuk/layoutscommerce": "^1.8",
     	"habeuk/theme_reference_wbu": "^1.0",
     	"habeuk/spaker_mod": "dev-2x",
     	"habeuk/clothingslayouts": "dev-1x",
@@ -57,7 +57,7 @@
     	"habeuk/mitor": "dev-1x",
     	"habeuk/mit_models": "dev-1x",
     	"habeuk/vixcon": "dev-1x",
-    	"habeuk/more_fields": "1.1.35",
+    	"habeuk/more_fields": "^1.1",
     	"habeuk/generate_style_theme": "3.1.0",
     	"stephane888/terms_display": "2.0.1",
     	"stephane888/get_data_field_from_url": "dev-1x",
@@ -74,6 +74,7 @@
         "habeuk/layoutgenentitystyles": "1.1.7",
         "habeuk/votings_renders": "1.2.1",
         "habeuk/fullswiperoptions": "1.2.32",
-        "stephane888/migrationwbh": "1.3.3"
+        "stephane888/migrationwbh": "1.3.3",
+        "habeuk/view_filter_promotion": "^1.0@alpha"
     }
 }
