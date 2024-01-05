@@ -74,9 +74,12 @@ install:
   - commerce_promotion
   - commerce_store
   - commerce_stripe
-  - responsive_image
+  - commerce_shipping
+  - commerce_checkout
+  - commerce_tax
   - commerce_stock_field
   - commerce_autosku
+  - responsive_image  
   - admin_toolbar
   - admin_toolbar_tools
   - menu_item_extras
@@ -86,9 +89,7 @@ install:
   - quickedit
   - search_api
   - search_api_db
-  - better_exposed_filters
-  - commerce_shipping
-  - commerce_checkout
+  - better_exposed_filters  
   - votingapi
   - video
   - phone_international
