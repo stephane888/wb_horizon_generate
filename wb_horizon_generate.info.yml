@@ -124,6 +124,8 @@ install:
   - more_fields
   - fast_models
   - bestlayouts
+  - stripebyhabeuk
+  - prise_rendez_vous
 
   
 

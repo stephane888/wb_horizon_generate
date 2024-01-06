@@ -76,6 +76,8 @@
         "habeuk/fullswiperoptions": "^1.2.32",
         "stephane888/migrationwbh": "^1.3.3|dev-1x",
         "habeuk/view_filter_promotion": "^1.0@alpha",
-        "habeuk/bestlayouts": "^0.0.5"
+        "habeuk/bestlayouts": "^0.0.5",
+        "stephane888/prise_rendez_vous": "dev-wbh",
+        "habeuk/stripebyhabeuk": "^1.1"
     }
 }
