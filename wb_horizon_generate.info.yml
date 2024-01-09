@@ -122,6 +122,8 @@ install:
   - apivuejs
   - filesmanager
   - more_fields
+  - more_fields_video
+  - buildercv
   - fast_models
   - bestlayouts
   - stripebyhabeuk
