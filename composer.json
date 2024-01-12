@@ -74,7 +74,7 @@
         "habeuk/layoutgenentitystyles": "^1.1.7",
         "habeuk/votings_renders": "^1.2.1",
         "habeuk/fullswiperoptions": "^1.2.32",
-        "stephane888/migrationwbh": "^1.4.2",
+        "stephane888/migrationwbh": "^1.4.2|dev-1x",
         "habeuk/view_filter_promotion": "^1.0@alpha",
         "habeuk/bestlayouts": "^0.0.5",
         "stephane888/prise_rendez_vous": "dev-wbh",
