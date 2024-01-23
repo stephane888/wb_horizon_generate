@@ -66,5 +66,10 @@
         "stephane888/prise_rendez_vous": "dev-wbh",
         "habeuk/stripebyhabeuk": "^1.1.2",
         "habeuk/buildercvlayouts": "^1.0.1"
+    },
+    "config": {
+        "allow-plugins": {
+            "cweagans/composer-patches": true
+        }
     }
 }
