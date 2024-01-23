@@ -14,7 +14,7 @@ dependencies:
   - paragraph_view_mode
   - pathauto
   - formatage_models
-  - generate_style_theme
+  - layoutgenentitystyles
   - migrationwbh
 
 #############
@@ -93,6 +93,7 @@ install:
   - votingapi
   - video
   - phone_international
+  - transliterate_filenames
 ### custom
   - creation_site_virtuel
   - migrationwbh
