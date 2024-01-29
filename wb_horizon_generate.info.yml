@@ -129,6 +129,7 @@ install:
   - bestlayouts
   - stripebyhabeuk
   - prise_rendez_vous
+  - bookingsystem_autoecole
 
   
 
