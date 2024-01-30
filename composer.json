@@ -60,7 +60,7 @@
     "stephane888/creation_site_virtuel": "^1.4.4",
     "drupal/phone_international": "^3.3",
     "habeuk/votings_renders": "^1.2.1",
-    "stephane888/migrationwbh": "^1.4.8|dev-1x",
+    "stephane888/migrationwbh": "^1.4.9|dev-1x",
     "drupal/view_filter_promotion": "^1.0@alpha",
     "habeuk/bestlayouts": "^0.0.5",
     "stephane888/prise_rendez_vous": "dev-wbh",
