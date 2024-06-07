@@ -1,13 +1,13 @@
 name: Site generer par Wb-Horizon
 type: profile
 description: "Ce profile permet de mettre en place la configuration de base permettant d'accueillir les données exportées"
-core_version_requirement: '^9'
+core_version_requirement: "^9 || ^10"
 
 #############
 distribution:
-  name: 'WB-horizon generate'
+  name: "WB-horizon generate"
   langcode: en
-  
+
 # Ces modules ne peuvent etre desinstaller par l'utilisateur
 dependencies:
   - paragraphs
@@ -21,12 +21,10 @@ dependencies:
 # Modules to install to support the profile.
 install:
   - node
-  - ctools
   - history
   - block
   - breakpoint
-  - ckeditor
-  - color
+  - ckeditor5
   - config
   - comment
   - contextual
@@ -50,7 +48,6 @@ install:
   - toolbar
   - field_ui
   - file
-  - rdf
   - views
   - views_ui
   - tour
@@ -58,7 +55,7 @@ install:
   - content_translation
   - config_translation
   - jsonapi
-### contrib module.
+  ### contrib module.
   - restui
   - pathauto
   - admin_toolbar
@@ -79,22 +76,21 @@ install:
   - commerce_tax
   - commerce_stock_field
   - commerce_autosku
-  - responsive_image  
+  - responsive_image
   - admin_toolbar
   - admin_toolbar_tools
   - menu_item_extras
   - lang_dropdown
   - languageicons
   - statistics
-  - quickedit
   - search_api
   - search_api_db
-  - better_exposed_filters  
+  - better_exposed_filters
   - votingapi
   - video
   - phone_international
   - transliterate_filenames
-### custom
+  ### custom
   - creation_site_virtuel
   - migrationwbh
   - commerceformatage
@@ -131,15 +127,9 @@ install:
   - prise_rendez_vous
   - bookingsystem_autoecole
 
-  
-
 #############
 # List any themes that should be installed as part of the profile installation.
 # Note that this will not set any theme as the default theme.
 themes:
-  - stark
   - claro
   - wb_universe
-  - theme_reference_wbu
-
-
