@@ -90,6 +90,8 @@ install:
   - video
   - phone_international
   - transliterate_filenames
+  - ctools
+  - pathauto
   ### custom
   - creation_site_virtuel
   - migrationwbh
