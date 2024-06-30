@@ -19,7 +19,7 @@ dependencies:
 
 ############################################################
 ### NE PAS EDITER :: CE FICHIER EST AUTOMATIQUEMENT GENERE
-# Modules to install to support the profile.
+### Modules to install to support the profile.
 install:
   - node
   - history
