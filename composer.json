@@ -57,7 +57,7 @@
     "drupal/webform": "^6.2.2",
     "habeuk/booking_system": "^2.0.3",
     "habeuk/commerceformatage": "^1.1.11",
-    "habeuk/drupal_utility": "^1.0.0",
+    "habeuk/drupal_utility": "^1.0.0 | dev-1x",
     "habeuk/fast_models": "^1.2.7",
     "habeuk/layoutscommerce": "^1.8.9",
     "habeuk/mitor": "^1.1.4",
@@ -81,6 +81,7 @@
     "habeuk/stripebyhabeuk": "^1.1.4",
     "habeuk/buildercvlayouts": "^1.0.1.2",
     "drupal/pathauto": "^1.12.0",
+    "habeuk/buildercv": "^1.1",
     "habeuk/bookingsystem_autoecole": "^1.0.3"
   },
   "config": {
