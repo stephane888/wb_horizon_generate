@@ -65,7 +65,7 @@
     "habeuk/vixcon": "^1.1.4",
     "stephane888/terms_display": "^2.0.2",
     "stephane888/get_data_field_from_url": "^1.0.1",
-    "stephane888/wb_horizon_public": "^1.1.10",
+    "stephane888/wb_horizon_public": "^1.1.11",
     "stephane888/fielditem_renderby_view": "^2.0.3",
     "stephane888/formatter_render_field": "^1.0.2",
     "stephane888/webform_domain_access": "^0.0.1",
