@@ -81,7 +81,8 @@
     "habeuk/stripebyhabeuk": "^1.1.4",
     "habeuk/buildercvlayouts": "^1.0.1.2",
     "drupal/pathauto": "^1.12.0",
-    "habeuk/bookingsystem_autoecole": "^1.0.3"
+    "habeuk/bookingsystem_autoecole": "^1.0.3",
+    "habeuk/hbkcolissimochrono": "^1.0"
   },
   "config": {
     "allow-plugins": {
