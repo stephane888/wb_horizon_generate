@@ -83,7 +83,7 @@
     "drupal/pathauto": "^1.12.0",
     "habeuk/bookingsystem_autoecole": "^1.0.3",
     "habeuk/hbkcolissimochrono": "^1.0",
-    "habeuk/contextual_more_links": "^1.0"
+    "habeuk/wb_horizon_stable": "dev-1x"
   },
   "config": {
     "allow-plugins": {
