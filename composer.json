@@ -86,7 +86,8 @@
     "habeuk/manage_module_config": "^1.0.4",
     "stephane888/hbktemplateuser": "^1.1.5",
     "habeuk/contextual_more_links": "^1.0.2",
-    "habeuk/wb_horizon_stable": "^1.0.5"
+    "habeuk/wb_horizon_stable": "^1.0.7",
+    "habeuk/wb_commerce": "^1.0.19"
   },
   "config": {
     "allow-plugins": {
