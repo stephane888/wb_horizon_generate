@@ -86,7 +86,7 @@
     "habeuk/manage_module_config": "^1.0.4",
     "stephane888/hbktemplateuser": "^1.1.5",
     "habeuk/contextual_more_links": "^1.0.2",
-    "habeuk/wb_horizon_stable": "^1.0.12",
+    "habeuk/wb_horizon_stable": "^1.0.13",
     "habeuk/wb_commerce": "^1.0.21",
     "stephane888/managepackvhsost": "^1.1.6|dev-1x"
   },
