@@ -74,7 +74,7 @@
     "stephane888/creation_site_virtuel": "^1.7.6.3",
     "drupal/phone_international": "^3.3.1",
     "habeuk/votings_renders": "^1.2.1",
-    "stephane888/migrationwbh": "^1.4.24|dev-1x",
+    "stephane888/migrationwbh": "^1.4.36|dev-1x",
     "drupal/view_filter_promotion": "^1.0.0-alpha4",
     "habeuk/bestlayouts": "^1.0.4",
     "stephane888/prise_rendez_vous": "^1.4.0",
@@ -86,7 +86,7 @@
     "habeuk/manage_module_config": "^1.0.4",
     "stephane888/hbktemplateuser": "^1.1.5",
     "habeuk/contextual_more_links": "^1.0.2",
-    "habeuk/wb_horizon_stable": "^1.0.23",
+    "habeuk/wb_horizon_stable": "^1.0.24 | dev-1x",
     "habeuk/wb_commerce": "^1.0.21",
     "stephane888/managepackvhsost": "^1.1.6|dev-1x"
   },
