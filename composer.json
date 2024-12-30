@@ -71,7 +71,7 @@
     "stephane888/webform_domain_access": "^0.0.1",
     "stephane888/view_formatter_layouts": "^1.0.5",
     "stephane888/modeldessange": "^1.0.2",
-    "stephane888/creation_site_virtuel": "^1.7.6.3",
+    "stephane888/creation_site_virtuel": "^1.7",
     "drupal/phone_international": "^3.3.1",
     "habeuk/votings_renders": "^1.2.1",
     "stephane888/migrationwbh": "^1.4.36|dev-1x",
