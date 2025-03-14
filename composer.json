@@ -36,7 +36,6 @@
     "drupal/transliterate_filenames": "^2.0.2",
     "drupal/restui": "^1.21.0",
     "drupal/imce": "^3.0.10",
-    "drupal/domain": "^2.0.x-dev",
     "drupal/select2": "^1.15.0",
     "drupal/commerce": "^2.39.0",
     "drupal/commerce_stripe": "^1.1.0",
@@ -85,8 +84,7 @@
     "habeuk/manage_module_config": "^1.0.4",
     "stephane888/hbktemplateuser": "^1.1.5",
     "habeuk/contextual_more_links": "^1.0.2",
-    "habeuk/wb_commerce": "^1.0.21",
-    "stephane888/managepackvhsost": "^1.1.6|dev-1x",
+    "habeuk/wb_commerce": "^1.0.21",    
     "drupal/eu_cookie_compliance": "^1.24"
   },
   "config": {
